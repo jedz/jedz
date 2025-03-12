@@ -44,7 +44,7 @@ I'm **Jedz**, a tech enthusiast driven by a passion for innovation and problem-s
 
 ###
 <div align="center"> 
-<img src="https://raw.githubusercontent.com/jedz/jedz/output/snake.svg" alt="Snake animation" /> <br/>
+<!--<img src="https://raw.githubusercontent.com/jedz/jedz/output/snake.svg" alt="Snake animation" /> <br/>-->
 
 <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnRqdjAyYnJocHlnazFocXVteTZnNGNlMDRrNWV3aXRhdDB5cHp6cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o72F7RrTPW6jymXew/giphy.gif"  />
 </div>
