@@ -17,32 +17,28 @@ I'm **Jedz**, a tech enthusiast driven by a passion for innovation and problem-s
 
 
 
-# 📊 Some of my GitHub Stats:
+<!--# 📊 Some of my GitHub Stats:
 
 ![](https://nirzak-streak-stats.vercel.app/?user=jedz&theme=dark&hide_border=false) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jedz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<br/>
-![](https://github-contributor-stats.vercel.app/api?username=jedz&limit=5&theme=rose_pine&combine_all_yearly_contributions=true) ![](https://github-readme-stats.vercel.app/api?username=jedz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jedz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)-->
+<!-- ![](https://github-contributor-stats.vercel.app/api?username=jedz&limit=5&theme=rose_pine&combine_all_yearly_contributions=true) ![](https://github-readme-stats.vercel.app/api?username=jedz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)-->
 
 <!--# 🌐 Reach Me @
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jedyroseligsay) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jedzzy) -->
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jedz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!--## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=jedz&theme=radical&no-frame=false&no-bg=true&margin-w=4)-->
 
 <h1>⚡️ Where to find me</h1>
 <p><a target="_blank" href="https://twitter.com/jedzzy" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
 <a target="_blank" href="https://dev.to/jedz" style="display: inline-block;"><img src="https://img.shields.io/badge/dev-to?style=for-the-badge&logo=dev-to&logoColor=white&color=black" alt="dev.to" /></a>
-<a target="_blank" href="https://www.linkedin.com/in/jedyroseligsay" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-
+<a target="_blank" href="https://www.linkedin.com/in/jedyroseligsay" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p> 
 
 
 <!--### 🔝 Top Contributed Repo -->
 
-
 ###
+
 <div align="center"> 
 <!--<img src="https://raw.githubusercontent.com/jedz/jedz/output/snake.svg" alt="Snake animation" /> <br/>-->
 
