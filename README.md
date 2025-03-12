@@ -5,7 +5,7 @@
 
 # 👩‍💻 So, hi there! I'm **Jedz**!
 
-..., a tech enthusiast driven by a passion for innovation and problem-solving. As an experienced developer and data professional specializing in Azure and .Net technologies, I excel at crafting efficient, impactful solutions that drive meaningful change. Beyond coding, I’m eager to explore emerging advancements in data engineering and quantum computing, embracing every opportunity to learn and grow. Collaboration and teamwork fuel my creativity, as I love bringing ideas to life alongside like-minded individuals.<br><br>When I step away from technology, you’ll often find me tending to my planted aquarium filled with vibrant tropical fish or diving into the pages of a captivating book.
+..., a tech enthusiast driven by a passion for innovation and problem-solving. As an **experienced developer** and **data professional** specializing in **Azure** and **.Net** technologies, I excel at crafting efficient, impactful solutions that drive meaningful change. Beyond coding, I’m eager to explore emerging advancements in **data engineering** and **quantum computing**, embracing every opportunity to learn and grow. Collaboration and teamwork fuel my creativity, as I love bringing ideas to life alongside like-minded individuals.<br><br>When I step away from technology, you’ll often find me tending to my planted aquarium filled with vibrant tropical fish or diving into the pages of a captivating book.
 
 
 ### ✍️ Inspiration first...
