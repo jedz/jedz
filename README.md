@@ -3,7 +3,7 @@
 <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3YxbWY4YTZ5YTN3czU4MjN6MHZhdm4wcG0xaWh4aGIwZ2Znc2hsaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L7AIyTuXaszW3shL0F/giphy.gif"  />
 </div-->
 
-# 👩‍💻 So, hi there! I'm **Jedz**!
+# 👩‍💻 So, hi there! I'm **Jedz**! aka **Jada**
 
 ..., a tech enthusiast driven by a passion for innovation and problem-solving. As an **experienced developer** and **data professional** specializing in **Azure** and **.Net** technologies, I excel at crafting efficient, impactful solutions that drive meaningful change. Beyond coding, I’m eager to explore emerging advancements such as in **data engineering** and **quantum computing**, embracing every opportunity to learn and grow. Collaboration and teamwork fuel my creativity, as I love bringing ideas to life alongside like-minded individuals.<br><br>When I step away from technology, you’ll often find me tending to my planted aquarium filled with vibrant tropical fishes or diving into the pages of a captivating book.
 
